@@ -3,10 +3,10 @@ Hello, welcome to my empty repository!
 Hello again
 
 =============
-a. What is an issue?
+a. What is an issue?  
 It is a feature on Github that allows us to track requested changes and features in a software project. 
 
-b. What is a pull request?
+b. What is a pull request?  
 A pull request is a way of submitting contributions to a project. It will notify changes to be reviewed and merged into another branch, typically the main branch,  of the repository.
 
 c. Describe the steps to open a pull request?
